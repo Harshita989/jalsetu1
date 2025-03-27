@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953392898164",
+    "project_id": "jalsetu-cf079",
+    "storage_bucket": "jalsetu-cf079.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953392898164:android:77fd1344859d9215697121",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aOdxJxsqqnUhrhdE51eOMtYvsQORTtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
